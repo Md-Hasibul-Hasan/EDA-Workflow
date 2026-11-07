@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) – Student Performance Dataset
+# Exploratory Data Analysis (EDA) – WorkFlow
 
 ## 1. Import Libraries
 
